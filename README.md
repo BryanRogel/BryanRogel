@@ -41,7 +41,7 @@ Aquí algunos proyectos en los que he estado trabajando, con un toque de diversi
 
 ¡Mira mis estadísticas de GitHub y algunas waifus programando!
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bryanrogel&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://streak-stats.demolab.com/?user=bryanrogel)
 
 ![Waifu programando](https://github.com/BryanRogel/BryanRogel/assets/38388048/0d20956e-e4c1-4c0a-a52e-878d10d161cb)
 
