@@ -45,6 +45,8 @@ Aquí algunos proyectos en los que he estado trabajando, con un toque de diversi
 
 ![Estadísticas de GitHub](https://github-stats-alpha.vercel.app/api?username=bryanrogel&cc=fff&tc=000&ic=ff00bc&bc=fff)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22pwiz3fuhjv4o74xwkmhkfpy&count=10)
+
 ![Waifu programando](https://github.com/BryanRogel/BryanRogel/assets/38388048/0d20956e-e4c1-4c0a-a52e-878d10d161cb)
 
 ![Waifu programando](https://github.com/BryanRogel/BryanRogel/assets/38388048/aa58e52c-f843-4e7b-bee9-9b90b1d5206f)
